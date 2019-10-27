@@ -1,0 +1,70 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="961" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../nRF5_SDK_16/components/libraries/usbd/app_usbd.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="27" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../blinker.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="31" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../demo_cli_cmds.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="10" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="interface.h" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="947" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../main.c" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="ble_elscooter_scanner_pca10059_s140"/>
+  <ProjectSessionItem path="ble_elscooter_scanner_pca10059_s140;ble_elscooter_scanner_pca10059_s140"/>
+  <ProjectSessionItem path="ble_elscooter_scanner_pca10059_s140;ble_elscooter_scanner_pca10059_s140;Application"/>
+  <ProjectSessionItem path="ble_elscooter_scanner_pca10059_s140;ble_elscooter_scanner_pca10059_s140;Board Definition"/>
+  <ProjectSessionItem path="ble_elscooter_scanner_pca10059_s140;ble_elscooter_scanner_pca10059_s140;Board Support"/>
+  <ProjectSessionItem path="ble_elscooter_scanner_pca10059_s140;ble_elscooter_scanner_pca10059_s140;None"/>
+  <ProjectSessionItem path="ble_elscooter_scanner_pca10059_s140;ble_elscooter_scanner_pca10059_s140;nRF_BLE"/>
+  <ProjectSessionItem path="ble_elscooter_scanner_pca10059_s140;ble_elscooter_scanner_pca10059_s140;nRF_Libraries"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="933" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="930" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="207" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16/components/boards/boards.c" selected="0" top="199" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="59" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16/components/boards/pca10059.h" selected="0" top="28" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="527" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16/components/libraries/timer/app_timer2.c" selected="0" top="517" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="6834" useTextEdit="1" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="6823" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="17" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../blinker.c" selected="0" top="32" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="40" y="145" useTextEdit="1" useBinaryEdit="0" left="0" path="logging.c" selected="0" top="165" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="52" useTextEdit="1" useBinaryEdit="0" left="0" path="cli_commands.c" selected="1" top="36" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="33" y="21" useTextEdit="1" useBinaryEdit="0" left="0" path="interface.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="9" useTextEdit="1" useBinaryEdit="0" left="0" path="blinker.c" selected="0" top="7" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="19" y="1" useTextEdit="1" useBinaryEdit="0" left="0" path="interface.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="721" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16/components/softdevice/s140/headers/ble_gap.h" selected="0" top="711" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="200" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16/components/softdevice/s140/headers/ble_types.h" selected="0" top="190" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="198" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_16/components/ble/nrf_ble_scan/nrf_ble_scan.c" selected="0" top="186" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="32" y="169" useTextEdit="1" useBinaryEdit="0" left="0" path="ble_elscooter_scanner_pca10059_s140.emProject" selected="0" top="154" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="20" y="2" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../interface.c" selected="0" top="0" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="ble_elscooter_scanner_pca10059_s140" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="/Users/gilfredoremon/Documents/CustomProjects/IoT/IoT_find_elscooters/src" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
