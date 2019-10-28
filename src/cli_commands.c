@@ -39,6 +39,7 @@ static void cmd_counter_start(nrf_cli_t const * p_cli, size_t argc, char **argv)
 
     reset_count();
     set_state(START);
+    nrf_cli_print(p_cli, "Start scanning VOI scooters");
 }
 
 static void cmd_counter_stop(nrf_cli_t const * p_cli, size_t argc, char **argv)
@@ -49,7 +50,7 @@ static void cmd_counter_stop(nrf_cli_t const * p_cli, size_t argc, char **argv)
         return;
     }
   
-    set_state(START);
+    set_state(STOP);
     nrf_cli_print(p_cli, "Scanned VOI scooters: %d", get_count());
 }
 
